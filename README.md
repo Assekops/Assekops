@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋 I'm Assefa Altaye <br> Full Stack Web Developer</h1>
 
-###
 
 <h2 align="left">About me</h2>
 

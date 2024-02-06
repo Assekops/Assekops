@@ -2,10 +2,6 @@
 
 ###
 
-<p align="left"> My journey in the tech landscape has equipped me with a deep understanding of the entire web development lifecycle. From crafting intuitive user interfaces with modern front-end tools to architecting robust server-side solutions</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###

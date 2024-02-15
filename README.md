@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">📚 I'm currently working on ... Web Development<br>🎯 Goals: ... To be better that yesterday <br>🎲 Fun fact: ... Hiking <br> 📫 How to reach me: 👇 <br></p>
+<p align="left">📚 I'm currently working on ... Web Development<br>🎯 Goals: ... To be better than yesterday <br>🎲 Fun fact: ... Hiking <br> 📫 How to reach me: 👇 <br></p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/assefa-altaye/" target="_blank">

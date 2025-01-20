@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋 I'm Assefa Altaye <br> Full Stack Web Developer</h1>
+<h1 align="center">Hi 👋 I'm Assefa Altaye <br> I am a Software Engineer</h1>
 
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">📚 I'm currently working on ... Web Development<br>🎯 Goals: ... To code better than yesterday <br>🎲 Hobby: ... Hiking <br> 📫 How to reach me: 👇 <br></p>
+<p align="left">📚 I'm currently working on ... Software Development<br>🎯 Goals: ... To Solve problems technically <br>🎲 Hobby: ... Hiking <br> 📫 How to reach me: 👇 <br></p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/assefa-altaye/" target="_blank">

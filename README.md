@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left">📚 I'm currently working on ... Software Development<br>🎯 Goals: ... To Solve problems technically <br>🎲 Hobby: ... Hiking <br> 📫 How to reach me: 👇 <br></p>
+<p align="left">📚 I'm currently working on ... Software Development<br>🎯 Goals: ... Solve problems technically <br> 📫 How to reach me: 👇 <br></p>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/assefa-altaye/" target="_blank">
